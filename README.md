@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af11b480-ef17-4ee4-81de-28f6f77c826b)# PERSONAL-PORTFOLIO-WEBPAGE
+# PERSONAL-PORTFOLIO-WEBPAGE
 
 COMPANY : CODTECH IT SOLUTIONS
 
